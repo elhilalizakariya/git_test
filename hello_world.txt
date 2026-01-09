@@ -1,1 +1,2 @@
 Hello my name is zakariya , i'm new to the odin project
+i'm using ubuntu btw.
